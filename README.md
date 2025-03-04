@@ -2,12 +2,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18483516&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+
+When developers deliver a project on schedule, they are able to manage the project's budget and prevent costs overun. This ensures the final product has achieved the desired standards and expectations. Project managers can meet deadlines through assigning adequate resources to a project and using management tools such as Trello ands Asana.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+By controlling costs, a developer is able to remain within the budget thus delivering the project on time. Proper cost control prevents wastage of resources and minimizes the risks of running into funding shortages. It also enables timely delivery of projects thus maximising profits. 
+To prevent budget overruns, project managers should set up realistic budget plans, estimate costs accurately, then continuously monitor and track the progress. They should also keep open communication lines with all stakeholders and immediately fix up issues that may arise.
+
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
