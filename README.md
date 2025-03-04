@@ -61,8 +61,8 @@ Agile is more beneficial than Waterfall when a project is flexible and can easil
 Waterfall is beneficial when a project has fixed requirements for example a school library management system.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+You can achieve quality assurance through ensuring that all stakeholders clearly understand the project's requirements. You should have a plan that outlines your testing strategy, scope, resources, schedules and  the timeliness to deliver.
+Maintaining high standards enables a developer to keep a smooth development process and achieve high quality software within planned budget and timelines.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
