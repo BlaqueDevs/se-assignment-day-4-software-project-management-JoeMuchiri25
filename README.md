@@ -65,12 +65,12 @@ You can achieve quality assurance through ensuring that all stakeholders clearly
 Maintaining high standards enables a developer to keep a smooth development process and achieve high quality software within planned budget and timelines.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+By defining the project scope, the manager is able to outline what is to be included or excluded in the project. It enables the developers and other stakeholders to understand the goals they are pursuing and thus allocate resources effectively.
+Work Breakdown Structure (WBS) is the breaking down of a project into smaller, more manageable tasks. It entails categorising the project spoke into deliverables, work portions and individual tasks. WBS is useful in organising work to smaller, more manageable packages. It also helps in resource allocation, clarifying roles and responsibilities of every team member, as well as tracking progress.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+A detailed project schedule is vital to a software development team in setting timelines for every task, and milestones throughout the project's lifespans. It helps provides clarity, manage resources, keep track of the progress and maintain control of a project.  
+A Gantt chart is a visual project scheduling tool used to track sequence of tasks, milestones and resource allocation. It provides a clear way to monitor the progress of a project and guide adjustments where needed.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
