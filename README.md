@@ -73,26 +73,23 @@ A detailed project schedule is vital to a software development team in setting t
 A Gantt chart is a visual project scheduling tool used to track sequence of tasks, milestones and resource allocation. It provides a clear way to monitor the progress of a project and guide adjustments where needed.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+My software on property management in Kenya seeks to find difficulty in rent collection, incomplete financial reporting  and poor communication between landlords and tenants. These issues affect all stakeholders such property owners, tenants and real estate managers, and can lead to financial losses and misunderstandings.
+My software will streamline rent payments, automate maintenance requests and provide real-time insights into properties in the Kenyan real estate industry.
+
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+Clearly defining the problem in property management will aid to develop an effective software solution that directly addresses the issues property owners, managers and tenants face. It will help me prioritize design features that solve issues, such as rent collection and maintenance tracking. Alternatively, by defining the problem I will avoid adding unnecessary functions.
+
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+My property management software eases managing of real estate by offering an intuitive, all-in-one system for property owners and managers. It streamlines repeat tasks such as rent collection, maintenance schedules, and communication flow between tenants and landlords. It presents a clear financial report, thus enhancing transparency while saving time.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+The property management software has a user-friendly interface, an automated rent collection and real-time maintenance tracking. It provides customizable financial reports, easing  tracking income and expenses. It also provides automated reminders for payments and lease renewals.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+The Kenya property management software market is promising and largely untapped. Data from real estate firms show that the sector is growing steadily and as at 2022 accounted for 9.3% of Kenya’s GDP. Globally the property management software market is also growing and is projected to rise from USD 24.18 billion in 2024 to USD 52.21 billion by 2032. My software will thus have a substantial market not only in Kenya but also worldwide.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
-Version control are systems that record changes to files over time, enabling developers to track  and revert to previous versions of their code. They have several concepts including: Repository, which is a collection of files that tracks changes done.Commit, which is an overview of the project at a certain time. Branching. which allows developers to work on features or bug fixes in certain environments. Others are Merging, Conflict and History.
-GitHub is popular for its detailed history tracking,  ease of collaboration, and powerful branching and merging features.
+Understanding the market trends will inform positioning and developing of a property management software that aligns with current and future customer needs. The trends I will analyse will be in areas such as cloud-based solutions, mobile access, automation, and enhanced data analytics. This will help target features that are in high demand. 
 
